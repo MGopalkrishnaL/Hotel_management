@@ -1,4 +1,4 @@
-# Food-delivery-platform
+# Hotel Management
 ### Requirements
 * IntelliJIDEA
 * ServerPort: 8080 (use: localhost:8080)
